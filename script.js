@@ -1,1 +1,1 @@
-window.location.href="https://brainpowersindia.graphy.com/courses/रहस्य-मुलांच्या-यशाचे-66321c339042a024cc9753aa";
+window.location.href="https://creator.tagmango.app/brainpowersindia";
